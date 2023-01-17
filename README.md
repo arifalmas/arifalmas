@@ -11,8 +11,11 @@ Want to know more about me ? [**Check out my Portfolio.**](https://arifalmas.net
 - 🌱 I’m currently learning MERN Stack 🔥 
 - ⚡ Fun fact: I think I'm crazy 
 
+<br/>
+# Find me on Social Platforms
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='white'>](https://github.com/coderarife)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/coderarife/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/coder.arifalmas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/coderarif/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/coderarife)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://arifalmas.netlify.app/)  
+[![Linkedin](https://raw.githubusercontent.com/coderarife/coderarife/main/img/linkedin.png "Linkedin")](https://www.linkedin.com/in/coderarife/ "Linkedin") [![Facebook](https://raw.githubusercontent.com/coderarife/coderarife/main/img/fb.png "Facebook")](http://facebook.com/coder.arifalmas "Facebook") [![Discord](https://raw.githubusercontent.com/coderarife/coderarife/main/img/discord.png "Discord")](https://discordapp.com/users/Arif Almas#6938 "Discord") [![Instagram](https://raw.githubusercontent.com/coderarife/coderarife/main/img/instagram.png "Instagram")](https://www.instagram.com/coderarif/ "Instagram")
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=coderarife)](https://github.com/ryo-ma/github-profile-trophy)
 
