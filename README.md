@@ -1,7 +1,6 @@
 <img title="" src="https://raw.githubusercontent.com/coderarife/coderarife/main/img/Arif Almas (7).png" alt="Arif Almas's Github Banner" >
 
-## Hi there 👋, I'm Arif Almas
-### I'm a Web/App Developer
+# Hi there 👋
 
 
 I am a web developer with a passion for building beautiful, responsive websites and applications. I have a background in graphic design and I am currently working on a career in web development.
