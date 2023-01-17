@@ -11,6 +11,8 @@ Want to know more about me ? [**Check out my Portfolio.**](https://arifalmas.net
 - 🌱 I’m currently learning MERN Stack 🔥 
 - ⚡ Fun fact: I think I'm crazy 
 
+![Profile views](https://gpvc.arturio.dev/coderarife)
+
 <br/>
 # Find me on Social Platforms
 
