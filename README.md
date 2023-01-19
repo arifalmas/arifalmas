@@ -1,4 +1,4 @@
-<img title="" src="https://raw.githubusercontent.com/coderarife/coderarife/main/img/Arif Almas (8).png" alt="Arif Almas's Github Banner" >
+<img title="" src="https://raw.githubusercontent.com/coderarife/coderarife/main/img/Arif Almas (10).png" alt="Arif Almas's Github Banner" >
 
 # Hi there 👋
 
