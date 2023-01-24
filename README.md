@@ -107,16 +107,6 @@ Want to know more about me ? [**Check out my Portfolio.**](https://arifalmas.net
     />
   </a>
 
-  <a style="margin: 5px" href="https://expressjs.com" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
 
   <a style="margin: 5px" href="https://www.mongodb.com/" target="_blank">
     <img
@@ -129,16 +119,6 @@ Want to know more about me ? [**Check out my Portfolio.**](https://arifalmas.net
     />
   </a>
 
-  <a style="margin: 5px" href="https://www.mysql.com/" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
 
   <a style="margin: 5px" href="https://firebase.google.com/" target="_blank">
     <img
@@ -207,39 +187,10 @@ Want to know more about me ? [**Check out my Portfolio.**](https://arifalmas.net
     />
   </a>
 
-  <a style="margin: 5px" href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
-      alt="illustrator"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://www.photoshop.com/en" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg"
-      alt="photoshop"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
-
-  <a style="margin: 5px" href="https://www.adobe.com/products/xd.html" target="_blank">
-    <img
-      style="margin: 5px"
-      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"
-      alt="xd"
-      align="left"
-      width="30"
-      height="30"
-    />
-  </a>
 </p>
+
+</br>
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=coderarife)](https://github.com/ryo-ma/github-profile-trophy)
 
