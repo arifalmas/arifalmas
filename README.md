@@ -16,7 +16,7 @@ Want to know more about me ? [**Check out my Portfolio.**](https://arifalmas.net
 <br/>
 # Find me on Social Platforms
 
-[![Linkedin](https://raw.githubusercontent.com/coderarife/coderarife/main/img/linkedin.png "Linkedin")](https://www.linkedin.com/in/coderarife/ "Linkedin") [![Linkedin](https://raw.githubusercontent.com/coderarife/coderarife/main/img/fb.png "Facebook")](http://facebook.com/coder.arifalmas "Facebook") [![Facebook](https://raw.githubusercontent.com/coderarife/coderarife/main/img/discord.png "Discord")](https://discordapp.com/users/ArifAlmas#6938 "Discord") [![Discord](https://raw.githubusercontent.com/coderarife/coderarife/main/img/instagram.png "Instagram")](https://www.instagram.com/coderarif/ "Instagram")
+[![Linkedin](https://raw.githubusercontent.com/coderarife/coderarife/main/img/linkedin.png "Linkedin")](https://www.linkedin.com/in/arifalmas/ "Linkedin") [![Linkedin](https://raw.githubusercontent.com/coderarife/coderarife/main/img/fb.png "Facebook")](http://facebook.com/coder.arifalmas "Facebook") [![Facebook](https://raw.githubusercontent.com/coderarife/coderarife/main/img/discord.png "Discord")](https://discordapp.com/users/ArifAlmas#6938 "Discord") [![Discord](https://raw.githubusercontent.com/coderarife/coderarife/main/img/instagram.png "Instagram")](https://www.instagram.com/coder.arifalmas/ "Instagram")
 
 ## 👨‍💻 Skills & Experience:
 <p align="left">
