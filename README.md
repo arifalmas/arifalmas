@@ -195,7 +195,7 @@ Want to know more about me ? [**Check out my Portfolio.**](https://arifalmas.net
 
 <a href="https://app.daily.dev/arifalmas"><img src="https://api.daily.dev/devcards/7f1f16c1c4694edf9a084aa024e629fd.png?r=o68" width="400" alt="Arif Almas's Dev Card"/></a>
 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderkhalide&show_icons=true&locale=en&layout=compact" alt="coderkhalide" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderarife)](https://github.com/anuraghazra/github-readme-stats)
 
