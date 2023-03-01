@@ -193,6 +193,8 @@ Want to know more about me ? [**Check out my Portfolio.**](https://arifalmas.net
 </br>
 </br>
 
+<a href="https://app.daily.dev/arifalmas"><img src="https://api.daily.dev/devcards/7f1f16c1c4694edf9a084aa024e629fd.png?r=o68" width="400" alt="Arif Almas's Dev Card"/></a>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderarife)](https://github.com/anuraghazra/github-readme-stats)
 
