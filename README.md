@@ -197,7 +197,7 @@ Want to know more about me ? [**Check out my Portfolio.**](https://arifalmas.net
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
 
 
-<p align="left"> <a href="https://twitter.com/arifalmass" target="blank"><img src="https://img.shields.io/twitter/follow/coderkhalid?logo=twitter&style=for-the-badge" alt="arifalmas" /></a> </p>
+<p align="left"> <a href="https://twitter.com/arifalmass" target="blank"></a> </p>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderarife)](https://github.com/anuraghazra/github-readme-stats)
