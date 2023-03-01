@@ -193,8 +193,9 @@ Want to know more about me ? [**Check out my Portfolio.**](https://arifalmas.net
 </br>
 </br>
 <div>
+    <a href="https://app.daily.dev/arifalmas"><img src="https://api.daily.dev/devcards/7f1f16c1c4694edf9a084aa024e629fd.png?r=o68" width="400" alt="Arif Almas's Dev Card"/></a>
+  </br>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
-  <a href="https://app.daily.dev/arifalmas"><img src="https://api.daily.dev/devcards/7f1f16c1c4694edf9a084aa024e629fd.png?r=o68" width="400" alt="Arif Almas's Dev Card"/></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arifalmas&" alt="arifalmas" /></p>
 </div>
 ## 📧 For Business Inquiries:
