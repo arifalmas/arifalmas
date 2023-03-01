@@ -202,35 +202,9 @@ Want to know more about me ? [**Check out my Portfolio.**](https://arifalmas.net
 
 <p align="left"> <a href="https://twitter.com/coderkhalid" target="blank"><img src="https://img.shields.io/twitter/follow/coderkhalid?logo=twitter&style=for-the-badge" alt="coderkhalid" /></a> </p>
 
-- 🔭 I’m currently working on **something cool 😎**
-
-- 🌱 I’m currently learning **something amazing 🔥**
-
-- 👨‍💻 All of my projects are available at my **portfolio** [https://khaliddev.com](https://www.khaliddev.com)
-
-- 📝 I regularly write articles on [https://ksdevware.com/blogs](https://ksdevware.com/blogs)
-
-- 💬 Ask me about **React, JavaScript, Node JS, React native**
-
-- 📫 How to reach me **khalideofficial@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1APRM9vrs3bSMCw41v4UHBuLj1xRmBdJ0NLxxpAoWlrY/edit?usp=sharing)
-
-- ⚡ Fun fact **I think I'm crazy**
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/khalideofficial" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="khalideofficial" height="30" width="40" /></a>
-<a href="https://twitter.com/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="coderkhalid" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="coderkhalid" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14612669" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14612669" height="30" width="40" /></a>
-<a href="https://fb.com/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="coderkhalid" height="30" width="40" /></a>
-<a href="https://instagram.com/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="coderkhalid" height="30" width="40" /></a>
-<a href="https://dribbble.com/coderkhalid" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dribbble.svg" alt="coderkhalid" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/khalidsaifullahKS" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/youtube.svg" alt="https://www.youtube.com/c/khalidsaifullahKS" height="30" width="40" /></a>
-</p>
 
 //
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderarife)](https://github.com/anuraghazra/github-readme-stats)
