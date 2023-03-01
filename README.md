@@ -196,17 +196,12 @@ Want to know more about me ? [**Check out my Portfolio.**](https://arifalmas.net
 <a href="https://app.daily.dev/arifalmas"><img src="https://api.daily.dev/devcards/7f1f16c1c4694edf9a084aa024e629fd.png?r=o68" width="400" alt="Arif Almas's Dev Card"/></a>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderkhalide&show_icons=true&locale=en&layout=compact" alt="coderkhalide" /></p>
 
-<p align="left"> <a href="https://twitter.com/arifalmass" target="blank"></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderkhalide&show_icons=true&locale=en" alt="coderkhalide" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coderkhalide&" alt="coderkhalide" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderarife)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=coderarife&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=coderarife)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=coderarife)  
 
 ## 📧 For Business Inquiries:
 <a href="mailto:arifalmasdev@gmail.com">
