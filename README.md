@@ -196,11 +196,8 @@ Want to know more about me ? [**Check out my Portfolio.**](https://arifalmas.net
 <a href="https://app.daily.dev/arifalmas"><img src="https://api.daily.dev/devcards/7f1f16c1c4694edf9a084aa024e629fd.png?r=o68" width="400" alt="Arif Almas's Dev Card"/></a>
 
 ///
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderkhalide&label=Profile%20views&color=0e75b6&style=flat" alt="coderkhalide" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderkhalide" alt="coderkhalide" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/coderkhalid" target="blank"><img src="https://img.shields.io/twitter/follow/coderkhalid?logo=twitter&style=for-the-badge" alt="coderkhalid" /></a> </p>
+<p align="left"> <a href="https://twitter.com/arifalmass" target="blank"><img src="https://img.shields.io/twitter/follow/coderkhalid?logo=twitter&style=for-the-badge" alt="arifalmas" /></a> </p>
 
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
