@@ -197,6 +197,8 @@ Want to know more about me ? [**Check out my Portfolio.**](https://arifalmas.net
 <div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" height="auto" />
   </br>
+   </br>
+    </br>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=arifalmas&" width="400" alt="arifalmas" /></p>
 </div>
 </br>
