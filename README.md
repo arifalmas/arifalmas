@@ -194,16 +194,12 @@ Want to know more about me ? [**Check out my Portfolio.**](https://arifalmas.net
 </br>
 
 <a href="https://app.daily.dev/arifalmas"><img src="https://api.daily.dev/devcards/7f1f16c1c4694edf9a084aa024e629fd.png?r=o68" width="400" alt="Arif Almas's Dev Card"/></a>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
 
-///
 
 <p align="left"> <a href="https://twitter.com/arifalmass" target="blank"><img src="https://img.shields.io/twitter/follow/coderkhalid?logo=twitter&style=for-the-badge" alt="arifalmas" /></a> </p>
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="500" height="auto" />
-
-
-//
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coderarife)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=coderarife&show_icons=true)  
