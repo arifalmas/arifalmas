@@ -16,7 +16,7 @@ Want to know more about me ? [**Check out my Portfolio.**](https://arifalmas.net
 <br/>
 # Find me on Social Platforms
 
-[![Linkedin](https://raw.githubusercontent.com/coderarife/coderarife/main/img/linkedin.png "Linkedin")](https://www.linkedin.com/in/arifalmas/ "Linkedin") [![Linkedin](https://raw.githubusercontent.com/coderarife/coderarife/main/img/fb.png "Facebook")](http://facebook.com/coder.arifalmas "Facebook") [![Facebook](https://raw.githubusercontent.com/coderarife/coderarife/main/img/discord.png "Discord")](https://discordapp.com/users/ArifAlmas#6938 "Discord") [![Discord](https://raw.githubusercontent.com/coderarife/coderarife/main/img/instagram.png "Instagram")](https://www.instagram.com/coder.arifalmas/ "Instagram")
+[![Linkedin](https://raw.githubusercontent.com/arifalmas/arifalmas/main/img/linkedin.png "Linkedin")](https://www.linkedin.com/in/arifalmas/ "Linkedin") [![Linkedin](https://raw.githubusercontent.com/arifalmas/arifalmas/main/img/fb.png "Facebook")](http://facebook.com/coder.arifalmas "Facebook") [![Facebook](https://raw.githubusercontent.com/arifalmas/arifalmas/main/img/discord.png "Discord")](https://discordapp.com/users/ArifAlmas#6938 "Discord") [![Discord](https://raw.githubusercontent.com/arifalmas/arifalmas/main/img/instagram.png "Instagram")](https://www.instagram.com/coder.arifalmas/ "Instagram")
 
 ## 👨‍💻 Skills & Experience:
 <p align="left">
@@ -201,7 +201,7 @@ Want to know more about me ? [**Check out my Portfolio.**](https://arifalmas.net
 ## 📧 For Business Inquiries:
 </br>
 </br>
-## <img  alt="gif" src="https://github.com/arifalmas/arifalmas/main/wifi-gol.gif?raw=true" width="50" height="50" /> Connect with Me
+## <img  alt="gif" src="https://github.com/arifalmas/arifalmas/main/img/wifi-gol.gif?raw=true" width="50" height="50" /> Connect with Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/coder.arifalmas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/coder.arifalmas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arifalmas) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@arifalmas)
 </br>
 <a href="mailto:arifalmasdev@gmail.com">
