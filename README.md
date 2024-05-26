@@ -12,7 +12,7 @@ Want to know more about me ? [**Check out my Portfolio.**](https://www.arifalmas
 - ⚡ Fun fact: I think I'm crazy 
 
 <br/>
-# Find me on Social Platforms
+**Find me on Social Platforms**
 
 [![Linkedin](https://raw.githubusercontent.com/arifalmas/arifalmas/main/img/linkedin.png "Linkedin")](https://www.linkedin.com/in/arifalmas/ "Linkedin") [![Linkedin](https://raw.githubusercontent.com/arifalmas/arifalmas/main/img/fb.png "Facebook")](http://facebook.com/coder.arifalmas "Facebook") [![Facebook](https://raw.githubusercontent.com/arifalmas/arifalmas/main/img/discord.png "Discord")](https://discordapp.com/users/ArifAlmas#6938 "Discord") [![Discord](https://raw.githubusercontent.com/arifalmas/arifalmas/main/img/instagram.png "Instagram")](https://www.instagram.com/coder.arifalmas/ "Instagram")
 
