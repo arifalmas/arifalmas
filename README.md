@@ -190,6 +190,9 @@ Find me on Social Platforms
 </br>
 </br>
 </br>
+[https://www.linkedin.com/in/arifalmas/](https://buymeacoffee.com/arifalmas
+)
+</br>
 
 <a href="https://app.daily.dev/arifalmas"><img src="https://api.daily.dev/devcards/v2/lOoDTI0mRXT9lBprieUkt.png?type=default&r=61j" width="356" alt="Arif Almas's Dev Card"/></a>
 
