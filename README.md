@@ -204,8 +204,6 @@ Want to know more about me ? [**Check out my Portfolio.**](https://www.arifalmas
   </tr>
 </table>
 <br/>
-
-</br>
 </br>
 <img  alt="gif" src="https://github.com/arifalmas/arifalmas/blob/main/img/wifi-gol.gif" width="50" height="50" /> Connect With Me:
 
