@@ -190,7 +190,7 @@ Find me on Social Platforms
 </br>
 </br>
 </br>
-(https://buymeacoffee.com/arifalmas)
+<a href="https://www.buymeacoffee.com/arifalmas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </br>
 
 <a href="https://app.daily.dev/arifalmas"><img src="https://api.daily.dev/devcards/v2/lOoDTI0mRXT9lBprieUkt.png?type=default&r=61j" width="356" alt="Arif Almas's Dev Card"/></a>
