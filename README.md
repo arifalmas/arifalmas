@@ -11,8 +11,6 @@ Want to know more about me ? [**Check out my Portfolio.**](https://www.arifalmas
 - 🌱 I’m currently learning MERN Stack 🔥 
 - ⚡ Fun fact: I think I'm crazy 
 
-<br/>
-
 ## 👨‍💻 Skills & Experience:
 <p align="left">
   <a style="margin: 5px" href="https://www.w3.org/html/" target="_blank">
@@ -183,6 +181,9 @@ Want to know more about me ? [**Check out my Portfolio.**](https://www.arifalmas
   </a>
 
 </p>
+</br>
+</br>
+</br>
 </br>
 <a href="https://www.buymeacoffee.com/arifalmas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </br>
