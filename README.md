@@ -194,8 +194,7 @@ Want to know more about me ? [**Check out my Portfolio.**](https://www.arifalmas
   <tr>
     <td>
 
-[![Arif Almas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@arifalmas&layout=compact)](#)
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arifalmas&show_icons=true&locale=en&layout=compact" alt="arifalmas" /></p>
   </td>
 
   <td>
