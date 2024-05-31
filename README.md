@@ -199,7 +199,7 @@ Want to know more about me ? [**Check out my Portfolio.**](https://www.arifalmas
   </td>
 
   <td>
-    <a href="https://app.daily.dev/arifalmas"><img src="https://api.daily.dev/devcards/52a2884137c14895ae917896eb442c6d.png?r=yxj" width="400" alt="Arif Almas's Dev Card"/></a>
+   <a href="https://app.daily.dev/arifalmas"><img src="https://api.daily.dev/devcards/v2/lOoDTI0mRXT9lBprieUkt.png?type=default&r=4l4" width="356" alt="Arif Almas's Dev Card"/></a>
   </td>
 
   </tr>
