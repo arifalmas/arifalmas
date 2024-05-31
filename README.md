@@ -1,4 +1,4 @@
-<img title="" src="img/bg-p.png" alt="Arif Almas's Github Banner" >
+<img title="" src="img/arifalmas_github.png" alt="Arif Almas's Github Banner" >
 
 # Hi there 👋
 
