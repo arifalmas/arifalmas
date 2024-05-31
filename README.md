@@ -183,11 +183,9 @@ Want to know more about me ? [**Check out my Portfolio.**](https://www.arifalmas
   </a>
 
 </p>
-
-</br>
-</br>
 </br>
 <a href="https://www.buymeacoffee.com/arifalmas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+</br>
 </br>
 
 <table border="0">
