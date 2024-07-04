@@ -44,6 +44,15 @@ Want to know more about me ? [**Check out my Portfolio.**](https://www.arifalmas
   </td>
   </tr>
 </table>
+## 📝 Latest Blogs
+
+- [ Figma Config 2024 — What’s New ?](https://arifalmas.medium.com/figma-config-2024-whats-new-63ed32ee5df2)
+
+- [New Features in React 19](https://arifalmas.medium.com/new-features-in-react-19-d5a414114f5d)
+
+## Follow Me for More:  [Medium](https://medium.com/@arifalmas)
+
+<br/>
 </br>
 <img  alt="gif" src="https://github.com/arifalmas/arifalmas/blob/main/img/wifi-gol.gif" width="50" height="50" /> 
 Connect with me:
