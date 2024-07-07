@@ -5,7 +5,7 @@
 I am **Arif Almas**, I am a web developer with a passion for building beautiful, responsive websites and applications. I'm a Experienced Front End Web developer in software industry. Excellent reputation for resolving problems and improving customer satisfaction. I'm a Front End Web developer to help you to build your personal website with seamless customization. 
 
 *💼 Experience:*
-- 4 years of overall experience, including skills in frontend development, backend deployment, and mobile app development..
+- 4 years of overall experience, including skills in frontend development, backend deployment.
 - Proficient in JavaScript and has considerable expertise with Node.js, React, Next.js, Redux, Express, and Socket.io.
 - Experienced in Design Including Visual Presantations & Animations.
 
