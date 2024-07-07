@@ -6,7 +6,7 @@ I am **Arif Almas**, I am a web developer with a passion for building beautiful,
 
 *💼 Experience:*
 - 4 years of overall experience, including skills in frontend development, backend deployment.
-- Proficient in JavaScript and has considerable expertise with Node.js, React, Next.js, Redux, Express, and Socket.io.
+- Proficient in JavaScript and has considerable expertise with Node.js, React js, Next.js, Redux, Express, and Socket.io.
 - Experienced in Design Including Visual Presantations & Animations.
 
 *🛠️ Skills:*
