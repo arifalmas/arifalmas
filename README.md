@@ -12,7 +12,7 @@ I am **Arif Almas**, I am a web developer with a passion for building beautiful,
 *🛠️ Skills:*
 - Proficient in JavaScript and modern frontend frameworks such as React, Next.js, and Redux.
 - Experienced in backend development with Node.js and deployment with Express.
-- Skilled in Web Design including Visual presantations and Animations.
+- Skilled in Web Design Including Visual presantations and Animations.
 
 Want to know more about me ? [**Check out my Portfolio.**](https://www.arifalmas.pro/)
 
