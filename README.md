@@ -19,7 +19,7 @@ Want to know more about me ? [**Check out my Portfolio.**](https://www.arifalmas
 
 - 🔭 I’m currently working on something cool😎 
 - 🌱 I’m currently learning MERN Stack 🔥 
-- ⚡ Fun fact: I think I'm crazy 
+- ⚡ Fun fact: I think I'm Crazy 
 
 ## 👨‍💻 Skills & Experience:
 
