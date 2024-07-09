@@ -17,7 +17,7 @@ I am **Arif Almas**, I am a web developer with a passion for building beautiful,
 Want to know more about me ? [**Check out my Portfolio.**](https://www.arifalmas.pro/)
 
 
-- 🔭 I’m currently working on something cool😎 
+- 🔭 I’m currently working on something Cool😎 
 - 🌱 I’m currently learning MERN Stack 🔥 
 - ⚡ Fun fact: I think I'm Crazy 
 
