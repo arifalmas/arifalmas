@@ -14,7 +14,7 @@ I am **Arif Almas**, I am a web developer with a passion for building beautiful,
 - Experienced in backend development with Node.js and deployment with Express.
 - Skilled in Web Design Including Visual Presantations and Animations.
 
-Want to know more about me ? [**Check out my Portfolio.**](https://www.arifalmas.pro/)
+Want to know more about me ? [**Check out my Portfolio.**](https://www.arifalmas.com/)
 
 
 - 🔭 I’m currently working on something Cool😎 
