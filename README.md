@@ -47,7 +47,7 @@ Want to know more about me ? [**Check out my Portfolio.**](https://www.arifalmas
 
 ## 📝 Latest Blog:
 
-<a href="https://learn.programming-hero.com" target="_blank"><img src="img/ph blog.jpg" ></a>
+<a href="https://learn.programming-hero.com" target="_blank" ><img src="img/ph blog.jpg" ></a>
 
 <img  alt="gif" src="https://github.com/arifalmas/arifalmas/blob/main/img/wifi-gol.gif" width="50" height="50" /> 
 Connect with me:
