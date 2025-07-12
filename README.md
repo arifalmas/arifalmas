@@ -47,7 +47,7 @@ Want to know more about me ? [**Check out my Portfolio.**](https://www.arifalmas
 
 ## 📝 Latest Blog:
 
-- [ MY LETEST BLOGS ?]([https://arifalmas.medium.com/figma-config-2024-whats-new-63ed32ee5df2](https://learn.programming-hero.com/))
+- [ MY LETEST BLOGS ]([(https://learn.programming-hero.com/)](https://learn.programming-hero.com/))
 
 <img  alt="gif" src="https://github.com/arifalmas/arifalmas/blob/main/img/wifi-gol.gif" width="50" height="50" /> 
 Connect with me:
