@@ -26,7 +26,7 @@ What I’m Working On
 - Exploring Generative AI & GEO-driven SEO strategies for modern web projects
 
 ⚡ Fun Fact
-I believe creativity with code can solve real-world problems—and sometimes, I think I’m a little crazy about it.
+I believe creativity with code can solve real-world problems and sometimes, I think I’m a little crazy about it.
 
 ## 👨‍💻 Skills & Experience:
 
