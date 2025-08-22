@@ -5,21 +5,28 @@
 I am **Arif Almas**, I am a web developer with a passion for building beautiful, responsive websites and applications. I'm a Experienced Front End Web developer in software industry. Excellent reputation for resolving problems and improving customer satisfaction. I'm a Front End Web developer to help you to build your personal website with seamless customization. 
 
 *💼 Experience:*
-- 4 years of overall experience, including skills in frontend development, backend deployment.
-- Proficient in JavaScript and has considerable expertise with Node.js, React js, Next.js, Redux, Express js, and Socket.io.
-- Experienced in Design Including Visual Presantations & Animations.
+- 4+ years of professional experience in Frontend Development & Backend Deployment
+- Strong expertise in JavaScript, React.js, Next.js, Redux, Node.js, Express.js, and Socket.io
+- Skilled in Website Optimization, SEO, and GEO-focused Web Strategies for better ranking and visibility
+- Experienced in Web Design, Visual Presentations, and Animations to create engaging UI/UX
 
 *🛠️ Skills:*
 - Proficient in JavaScript and modern frontend frameworks such as React, Next.js, and Redux.
 - Experienced in backend development with Node.js and deployment with Express.
 - Skilled in Web Design Including Visual Presantations and Animations.
+- SEO & GEO Optimization: Building websites with structured schema, performance tuning, and search visibility strategies
 
 Want to know more about me ? [**Check out my Portfolio.**](https://www.arifalmas.com/)
 
+*🌱 What I’m Learning:*
+Currently diving deeper into the MERN Stack to expand my full-stack capabilities and mastering AI-driven SEO optimization to build future-ready applications.
 
-- 🔭 I’m currently working on something Cool😎 
-- 🌱 I’m currently learning MERN Stack 🔥 
-- ⚡ Fun fact: I think I'm Crazy 
+What I’m Working On
+- Building high-performance, SEO-optimized personal websites
+- Exploring Generative AI & GEO-driven SEO strategies for modern web projects
+
+⚡ Fun Fact
+I believe creativity with code can solve real-world problems—and sometimes, I think I’m a little crazy about it.
 
 ## 👨‍💻 Skills & Experience:
 
