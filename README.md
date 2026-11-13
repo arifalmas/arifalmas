@@ -16,7 +16,7 @@ I am **Arif Almas**, I am a web developer with a passion for building beautiful,
 - Skilled in Web Design Including Visual Presantations and Animations.
 - SEO & GEO Optimization: Building websites with structured schema, performance tuning, and search visibility strategies
 
-Want to know more about me ? [**Check out my Portfolio.**](https://www.arifalmas.com/)
+Want to know more about me ? [**Check out my Portfolio.**](https://www.arifalmas.pro/)
 
 *🌱 What I’m Learning:*
 Currently diving deeper into the MERN Stack to expand my full-stack capabilities and mastering AI-driven SEO optimization to build future-ready applications.
