@@ -31,10 +31,9 @@ Today, I focus on building organic growth strategies, strengthening brand visibi
 
 ### 💼 Professional Experience
 
-- **Programming Hero** — SEO & Content Executive
-- **SeloraX** — Strategic Content & SEO Lead
-- **Learn with Sumit** — Web Development Instructor & Community Support
-- **Stack Learner** — Programming Content Strategy
+- **Programming Hero** - SEO & Content Executive
+- **Learn with Sumit** - Web Development Instructor & Community Support
+- **Stack Learner** - Programming Content Strategy
 
 ### 🧠 My Interests
 
