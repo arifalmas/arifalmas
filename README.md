@@ -44,8 +44,8 @@ SEO • Organic Growth • Content Marketing • GEO • AIO • LLMO • AI Aut
 
 - **LinkedIn:** [linkedin.com/in/arifalmas](https://www.linkedin.com/in/arifalmas/)
 - **Facebook:** [facebook.com/coder.arifalmas](https://www.facebook.com/coder.arifalmas)
-- **Portfolio:** [Add your portfolio URL]
-- **Email:** [Add your professional email]
+- **Portfolio:** [https://www.arifalmas.pro/]
+- **Email:** [arifalmasdev@gmail.com]
 
 ---
 
@@ -59,17 +59,10 @@ SEO • Organic Growth • Content Marketing • GEO • AIO • LLMO • AI Aut
 </br>
 </br>
 </br>
-<a href="https://www.buymeacoffee.com/arifalmas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-</br>
-</br>
 
 <table border="0">
   <tr>
-    <td>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arifalmas&show_icons=true&locale=en" alt="arifalmas" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arifalmas&show_icons=true&locale=en&layout=compact" alt="arifalmas" /></p>
-  </td>
 
   <td>
    <a href="https://app.daily.dev/arifalmas"><img src="https://api.daily.dev/devcards/v2/lOoDTI0mRXT9lBprieUkt.png?type=default&r=4l4" width="356" alt="Arif Almas's Dev Card"/></a>
