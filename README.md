@@ -1,10 +1,8 @@
 <img title="" src="img/arifalmas_github.jpg" alt="Arif Almas's Github Banner" >
 
-# Hi there 👋
-
 # Hey, I'm Arif Almas 👋
 
-### Business Growth Expert | Growth, SEO & Content Strategist
+### Business Growth Expert | SEO & Content Strategist
 
 I help businesses grow through strategic SEO, content marketing, organic acquisition, data-driven decisions, and AI-powered search optimization.
 
